@@ -1,13 +1,1 @@
-apiVersion: v1
-entries:
-  firstapp:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-12-06T14:56:34.370412059+05:30
-    description: A Helm chart for Kubernetes
-    digest: 50373cfa1169d9a7defad3db0b87c8fdb07e51165fa67ef7307f31e197386c6b
-    name: firstapp
-    urls:
-    - https://rudu12.github.io/foxutech-helm/firstapp-0.1.0.tgz
-    version: 0.1.0
-generated: 2018-12-06T14:56:34.366983729+05:30
+
